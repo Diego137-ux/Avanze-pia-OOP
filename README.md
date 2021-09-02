@@ -44,3 +44,6 @@ CantidadCompra() Nos ayudara a comprender el producto que entra a la bodego para
  TipoProducto() Comprende el tipo de producto que salió, es decir, si salió una manzana o mango o piña, etc.
  
  MostradorStock() Podemos conocer la cantidad de producto que tenemos en mostrador, es decir, lo que los clientes pueden observar.
+ 
+ ![image](https://user-images.githubusercontent.com/62929033/131924235-cf386c4b-52cb-460f-b6a4-8bfa749cf5ee.png)
+
