@@ -18,24 +18,24 @@ Una bodega de el mercado de abastos de San Nicolás, registra sus datos de una m
 *Propuesta técnica*
 ¿Qué entidades y funcionalidades realizará la aplicación para proveer un servicio útil?
 
-- ## Entidades
-Main
-Cliente
-Compra
-Venta
-Producto
+## Entidades
+- Main
+ - Cliente
+- Compra
+- Venta
+- Producto
 Stock
-- ## Atributos
- obtenerCliente()
- obtenerProveedor()
-CantidadCompra()
- CantidadVenta()
- TipoProducto()
- MostradorStock()
-- ## Funcionalidades
- obtenerCliente() Este método nos ayudara a tener un seguimiento de los clientes y información personal suya.
+## Atributos
+ - obtenerCliente()
+ - obtenerProveedor()
+- CantidadCompra()
+-  CantidadVenta()
+ - TipoProducto()
+- MostradorStock()
+## Funcionalidades
+ ObtenerCliente() Este método nos ayudara a tener un seguimiento de los clientes y información personal suya.
  
- obtenerProveedor() Nos ayudara a saber la información del proveedor.
+ ObtenerProveedor() Nos ayudara a saber la información del proveedor.
  
 CantidadCompra() Nos ayudara a comprender el producto que entra a la bodego para mejor manejo de inventario
 
