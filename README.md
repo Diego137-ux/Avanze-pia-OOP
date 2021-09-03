@@ -3,7 +3,6 @@
 -      
    
  - Diego Davila Lopez                         1963061
-- David Rene Hernandez Hernandez             1753416
 - Angel Euardo Jacinto Peña                  1923867
 - Benito Estudillo Martínez                  2076183
 
