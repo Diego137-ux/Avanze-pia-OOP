@@ -18,7 +18,6 @@ Una bodega de el mercado de abastos de San Nicolás, registra sus datos de una m
 ¿Qué entidades y funcionalidades realizará la aplicación para proveer un servicio útil?
 
 ## Entidades
-- Main
  - Cliente
 - Compra
 - Venta
