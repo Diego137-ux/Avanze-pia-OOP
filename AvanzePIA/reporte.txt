@@ -1,0 +1,12 @@
+Nombre del producto: Pera
+Codigo del producto: 1
+Tamaño del stock: 3
+Precio: 20.0
+Nombre del producto: Uva
+Codigo del producto: 2
+Tamaño del stock: 3
+Precio: 50.0
+Nombre del cliente: Diego
+Numero de telefono: 8117427689
+Cantidad de compra: 4
+Total de compra: 140.0
